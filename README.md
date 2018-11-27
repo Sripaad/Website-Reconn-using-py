@@ -1,8 +1,8 @@
-### Website-Reconn-using-python
+# Website reconnaissance using Python.
 ---------------------------------
 ## This is a small tool to gather information for a website. 
---------------------------------------
-# Information collected includes
+
+### Information collected includes :
 
     domain name
     whois information
@@ -10,3 +10,4 @@
     server ip
     robots.txt file contents
    
+*A Project by Sripaad Srinivasan*
